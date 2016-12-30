@@ -1,0 +1,12 @@
+{
+  "name": "osx-quartz",
+  "version": "1.0.0",
+  "description": "Query Quartz (Core Graphics) information on OS X",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Artem Tyurin <artem.tyurin@gmail.com>",
+  "license": "ISC",
+  "keywords": ["apple", "quartz", "core graphics", "osx"]
+}
