@@ -8,5 +8,18 @@
   },
   "author": "Artem Tyurin <artem.tyurin@gmail.com>",
   "license": "ISC",
-  "keywords": ["apple", "quartz", "core graphics", "osx"]
+  "keywords": [
+    "apple",
+    "quartz",
+    "core graphics",
+    "osx"
+  ],
+  "repository": {
+    "url": "git+ssh://git@github.com/agentcooper/node-osx-quartz.git",
+    "type": "git"
+  },
+  "bugs": {
+    "url": "https://github.com/agentcooper/node-osx-quartz/issues"
+  },
+  "homepage": "https://github.com/agentcooper/node-osx-quartz#readme"
 }
